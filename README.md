@@ -1,4 +1,4 @@
-# Opti_AirFrance
+# Optimization AirFrance
 
 Optimizing passenger seating for group cohesion, aircraft balance, and special needs is crucial for both customer satisfaction and operational efficiency. 
 
